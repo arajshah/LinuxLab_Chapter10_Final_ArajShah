@@ -14,6 +14,4 @@ def encryptor(text):
             
     return encrypted + big + small 
 
-text = "I am a good boy as dferfs asdasdasd sdfscvsdfwe asdqwdas asxasdas asdasdasda sdfsdf werewd wsas asd"   
-print(encryptor(text))
         
